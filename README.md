@@ -4,8 +4,8 @@
 I'm a developer who loves building things that are useful, meaningful, and sometimes just for fun.
 
 ## 🚀 Tech Stack
-- **Languages**: JavaScript, TypeScript, Python  
-- **Frameworks**: React, Next.js, Node.js  
+- **Languages**: R, SAS, SQL  
+- **Visualizations**: Power BI, Tableau   
 - **Tools**: Git, VSCode, Figma, Vercel
 
 ## 🛠️ Projects
