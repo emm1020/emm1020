@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**emm1020/emm1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Eun Ji Sim 👋
 
-Here are some ideas to get you started:
+I'm a developer who loves building things that are useful, meaningful, and sometimes just for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages**: JavaScript, TypeScript, Python  
+- **Frameworks**: React, Next.js, Node.js  
+- **Tools**: Git, VSCode, Figma, Vercel
+
+## 🛠️ Projects
+- 🔗 [Project Name](https://your-project-link.com) – A short description of what this project does.
+- 🔗 [Another Cool Thing](https://another-project-link.com) – What problem it solves or why it's interesting.
+
+## ✍️ Blog / Writings (optional)
+- [Title of blog post](https://blog-link.com) – Short summary or takeaway.
+
+## 📫 Contact
+Feel free to reach out via [email](mailto:your@email.com) or [LinkedIn](https://linkedin.com/in/yourprofile)!
+
+---
+
+Thanks for stopping by 👀
+
