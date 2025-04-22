@@ -12,7 +12,7 @@ Let’s connect and make data work for better health!
 ## 🚀 Tech Stack
 - **Languages**: R, SAS, SQL  
 - **Visualizations**: Power BI, Tableau   
-- **Tools**: Git, VSCode, Figma, Vercel
+- **Tools**: Git, VSCode 
 
 ## 🛠️ Projects
 - 🔗 [Project Name](https://your-project-link.com) – A short description of what this project does.
