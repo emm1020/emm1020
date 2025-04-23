@@ -22,7 +22,8 @@ Let’s connect and make data work for better health!
 - [Title of blog post](https://blog-link.com) – Short summary or takeaway.
 
 ## 📫 Contact
-Feel free to reach out via [email](mailto:your@email.com) or [LinkedIn](https://linkedin.com/in/yourprofile)!
+- Email: sim.ej1020@gmail.com
+- LinkedIn: https://www.linkedin.com/in/eun-ji-sim-81513a178/
 
 ---
 
