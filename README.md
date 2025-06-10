@@ -1,7 +1,7 @@
 
 # Hi, I'm Eun Ji Sim 👋
 
-I'm a passionate **public health data scientist**/**biostatistician** with a strong background in cancer epidemiology. I enjoy using data to uncover meaningful insights and develop evidence-based solutions that improve health outcomes for patients, especially with cancer. 
+I'm a passionate **public health data scientist**/**biostatistician** with a strong background in cancer epidemiology. I enjoy using data to uncover meaningful insights and develop evidence-based solutions that improve health outcomes for patients, especially with cancer. I'm especially drawn to thinking about what biologically plausible mechanisms might underlie observed associations - reasoning through how molecular pathways could explain the patterns we find in the data. 
 
 Currently, I work as an **epidemiologist** at the Washington State Department of Health, where I analyze surveillance data, generate reports, and provide data-driven insights to support public health decision-making and inform policy.
 
