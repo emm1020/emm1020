@@ -18,14 +18,11 @@ Let’s connect and make data work for better health!
 - 🔗 [Project Name](https://your-project-link.com) – A short description of what this project does.
 - 🔗 [Another Cool Thing](https://another-project-link.com) – What problem it solves or why it's interesting.
 
-## ✍️ Blog / Writings (optional)
-- [Title of blog post](https://blog-link.com) – Short summary or takeaway.
-
 ## 📫 Contact
 - Email: sim.ej1020@gmail.com
 - LinkedIn: https://www.linkedin.com/in/eun-ji-sim-81513a178/
 
 ---
 
-Thanks for stopping by 👀
+Thanks for stopping by :) 
 
